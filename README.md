@@ -48,17 +48,25 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-![1](https://github.com/user-attachments/assets/1c9153eb-7294-4744-8073-a59c4b8f3b84)
 
-![2](https://github.com/user-attachments/assets/32a86577-f790-449b-82ac-484b374dc89d)
+<img width="701" height="914" alt="Screenshot 2025-11-18 222521" src="https://github.com/user-attachments/assets/b471437a-8f25-4b07-8905-fc065ce87140" />
 
-![3](https://github.com/user-attachments/assets/50dc86af-022e-46a1-b5f6-1d299edfc012)
+<img width="667" height="800" alt="Screenshot 2025-11-18 222537" src="https://github.com/user-attachments/assets/2537c95d-ce66-4586-8e7a-9d040453e22a" />
+
+<img width="453" height="616" alt="Screenshot 2025-11-18 222600" src="https://github.com/user-attachments/assets/1336241d-c9aa-4819-becf-a2e6eaa4a744" />
+
+<img width="699" height="895" alt="Screenshot 2025-11-18 222610" src="https://github.com/user-attachments/assets/d5552f30-fb5e-4d9c-9e28-103bbfba2911" />
+
+<img width="649" height="867" alt="image" src="https://github.com/user-attachments/assets/4c960e61-4062-4356-9691-281a4c2fcce5" />
 
 
-<img width="956" height="546" alt="image" src="https://github.com/user-attachments/assets/5d54039a-3442-4ab0-80eb-b8e508f6918c" />
+<img width="1075" height="624" alt="image" src="https://github.com/user-attachments/assets/877cd830-1b26-4692-bec6-604343ac710a" />
 
-<img width="956" height="746" alt="image" src="https://github.com/user-attachments/assets/f1503b21-c47c-41df-9dfd-ea073951ae0a" />
+<img width="1067" height="313" alt="image" src="https://github.com/user-attachments/assets/f4eb0e12-a67e-48e4-a01c-9a7320ea0a8f" />
 
- 
+<img width="1370" height="626" alt="image" src="https://github.com/user-attachments/assets/04751024-569b-49b3-9851-a6c46ce2d305" />
+
+<img width="1373" height="463" alt="image" src="https://github.com/user-attachments/assets/c7c3bfe5-ef74-472b-ba94-5c600dd2b4cf" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
